@@ -1,0 +1,16 @@
+.villager {
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 3px;
+    border: 2px solid gray;
+    font-family: 'Open Sans', sans-serif;
+    flex: 1;
+}
+
+.villager > div {
+    background-color: #fffffa;
+}
+
+.villagers {
+    display: flex;
+}
