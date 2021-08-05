@@ -1,0 +1,47 @@
+body {
+	margin: 0;
+}
+
+header {
+	background-color: #551a8b;
+	color: rgba(255, 255, 255, 0.8);
+	font-family: 'Lato', sans-serif;
+	display: flex;
+	justify-content: space-between;
+	flex-direction: column;
+	padding: 1rem;
+}
+
+header span {
+	padding: 0.5rem 0;
+}
+
+li {
+	list-style: none;
+	padding: 0.5rem 0;
+}
+
+ul {
+	margin: 0;
+	padding: 0;
+}
+
+li a {
+	color: rgba(255, 255, 255, 0.8);
+	text-decoration: none;
+}
+
+@media only screen and (min-width: 768px) {
+	header {
+		flex-direction: row-reverse;
+		align-items: center;
+	}
+
+	ul {
+		display: flex;
+	}
+
+	li {
+		padding: 0 1rem;
+	}
+}

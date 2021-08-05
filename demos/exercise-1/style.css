@@ -1,0 +1,78 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    background-color: #ed7576;
+    font-family: "Open Sans", sans-serif;
+  }
+  
+  main {
+    background-color: #f0f0f0;
+    border-radius: 2px;
+    width: 100%;
+    max-width: 800px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
+  section {
+    padding: 6rem;
+  }
+  
+  h1 {
+    margin: 0;
+    color: #888;
+    text-align: center;
+    font-weight: lighter;
+  }
+  
+  input {
+    color: #aaa;
+    border: 1px solid #aaa;
+    padding: 1.5rem;
+    font-size: 1.2rem;
+  }
+  
+  button {
+    background-color: #7cd9d5;
+    color: #fff;
+    padding: 1rem 3rem;
+    text-align: center;
+    font-size: 1rem;
+    border: 0;
+    text-transform: uppercase;
+    display: block;
+    margin: 0 auto;
+  }
+  
+  label {
+    width: 100%;
+    display: block;
+    margin: 2rem auto;
+  }
+  
+  label > input {
+    width: 100%;
+    color: #c6c6c6;
+  }
+  
+  label.remember-me {
+    font-size: 1rem;
+    color: #aaa;
+    display: inline-block;
+    vertical-align: center;
+    line-height: 1;
+  }
+  
+  input[type="checkbox"] {
+    display: inline-block;
+    vertical-align: center;
+    padding: 0.5rem;
+    border-color: #aaa;
+    height: 1.2rem;
+    width: 1.2rem;
+    border-radius: 0;
+  }
