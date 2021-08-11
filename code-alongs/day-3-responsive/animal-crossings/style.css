@@ -1,11 +1,58 @@
 .villager {
-    padding: 1rem;
-    margin: 1rem;
-    border-radius: 3px;
-    border: 2px solid gray;
-    font-family: 'Open Sans', sans-serif;
+	padding: 1rem;
+	margin: 1rem;
+	border-radius: 3px;
+	border: 2px solid gray;
+	font-family: 'Open Sans', sans-serif;
+	flex: 1;
 }
 
 .villager > div {
-    background-color: #fffffa;
+	background-color: #f0f0f0;
+	display: none;
+}
+
+.villagers {
+	display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
+	flex-direction: column;
+}
+
+.villager {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+@media only screen and (min-width: 768px) {
+	.villagers {
+		flex-direction: row;
+	}
+
+	.villager > div {
+		display: block;
+	}
+
+	.villager > button {
+		display: none;
+	}
+}
+
+@media only print {
+	.villager > button {
+		display: none;
+	}
+
+	.villager > div {
+		display: block;
+	}
+
+	p {
+		font-size: 24px;
+	}
+
+	.villager {
+		border: none;
+	}
 }
