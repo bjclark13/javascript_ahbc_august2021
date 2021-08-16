@@ -14,7 +14,7 @@ Notes: Good book: https://www.amazon.com/Seductive-Interaction-Design-Effective-
 
 Break
 
-## 8-10
+## 8:30-10
 
 Review for assessment:
 

@@ -1,0 +1,71 @@
+body {
+	margin: 0;
+}
+
+.main {
+	display: flex;
+	height: 100vh;
+}
+
+.form-container {
+	background-color: red;
+	flex: 1;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.bullseye-container {
+	display: none;
+}
+
+.form {
+	display: flex;
+	flex-direction: column;
+	width: 220px;
+	height: 220px;
+	padding: 20px;
+	background-color: white;
+	border-radius: 10px;
+}
+
+input,
+button {
+	padding: 5px;
+	border-radius: 5px;
+}
+
+@media screen and (min-width: 800px) {
+	.bullseye-container {
+		display: block;
+		background-color: black;
+		flex: 2;
+		position: relative;
+	}
+
+	.circle {
+		border-radius: 50%;
+		position: absolute;
+		left: 50%;
+		top: 50%;
+		transform: translate(-50%, -50%);
+	}
+	
+	.large {
+		width: 300px;
+		height: 300px;
+		background-color: red;
+	}
+	
+	.medium {
+		width: 200px;
+		height: 200px;
+		background-color: white;
+	}
+	
+	.small {
+		width: 100px;
+		height: 100px;
+		background-color: red;
+	}
+}
