@@ -23,20 +23,20 @@ if (escape.make === 'Ford' || escape.electric === true) {
 // echo f150 model
 console.log(f150.model);
 // > < >= <=
-// if year is greater than 2019, 
+// if year is greater than 2019,
 // echo "Fuel economy rules apply"
 if (f150.year > 2019) {
-    console.log("Fuel economy rules apply");
+	console.log('Fuel economy rules apply');
 }
 
 // if (f150.make) {
-//     console.log("MAKE") 
+//     console.log("MAKE")
 // } else {
 //     console.log("NOT TRUE")
 // }
 // vs
 // if (f150.make === true) {
-//     console.log("MAKE") 
+//     console.log("MAKE")
 // } else {
 //     console.log("NOT TRUE")
 // }
@@ -51,9 +51,21 @@ console.log(`${camry.year} ${camry.make} ${camry.model}`); // preferred
 // console.log('1' + '1');
 // console.log(1 + '1'); // 11
 
-
 // console.log(1 == '1');
 // console.log(1 === '1');
 // }
 
-// Loops 
+// Loops
+
+const actualTemp = 60;
+const desiredTemp = 87;
+
+if (actualTemp > desiredTemp) {
+	console.log('Run A/C');
+} else if (actualTemp < desiredTemp) {
+	console.log('Run Heat');
+} else {
+	console.log('standby');
+}
+
+

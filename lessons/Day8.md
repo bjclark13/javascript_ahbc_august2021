@@ -10,7 +10,7 @@ Do bonus exercise together.
 
 ## 7:15 - 8
 
-Lecture: Conditionals
+Lecture: Loops
 
 ## 8 - 8:15
 
@@ -22,9 +22,13 @@ Code Along : Loops
 
 ## 9 - 9:40
 
-Loops Exercise Practice
+Loops Exercise Practice. Individual breakout rooms, but you can move around to work
+together if you'd like.
 
-Work on extended exercise if you can
+Work on extended exercise if you can.
+
+(If you finish both, make any changes to fix any points you got off in the assessments
+You can re-push to github and ask @nick or @bj if that solves the problem.)
 
 ## 9:40 - 10
 
