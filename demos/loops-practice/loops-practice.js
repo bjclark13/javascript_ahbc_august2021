@@ -23,7 +23,10 @@ const cars = [
 // using a regular for loop, display the full name of each car
 // `year make model (electric)?`
 
-// do the same thing with a for...of loop
+// using a for...in loop inside
+// of a for...of loop
+// loop through each car
+// and console.log() each property one by one
 
 const mustang = {
 	make: 'Ford',
