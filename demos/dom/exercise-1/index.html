@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]>      <html class="no-js"> <!--<![endif]-->
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Exercise 1</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="">
+    </head>
+    <body>
+        <h1>Welcome _______</h1>
+        <p>
+            <input id="name" placeholder="Enter your name" />
+        
+            <button onclick="main()">Action!!!</button>
+        </p>
+        <p id="hide-me">I will be hidden.</p>
+        <p id="show-me" style="display: none;">I will be shown.</p>
+        <p id="grow-me">I will grow.</p>
+        <p id="shrink-me" class="big">I will shrink.</p>
+        <p>
+            A link to <a class="link" href="broken-link">nowhere</a>.
+        </p>
+        
+        <ol>
+            <li>Document</li>
+            <li>Object</li>
+            <li>Model</li>
+        </ol>
+        
+        <style>
+            .big {
+                font-size: 300%;
+            }
+            p {
+                transition: all 400ms;
+            }
+            #hide-me, #show-me {
+                border: 4px solid crimson;
+                border-radius: 8px;
+                padding: 4px 8px;
+                width: 10em;
+            }
+            #show-me {
+                border-color: green;
+                margin-left: 11em;
+            }
+        </style>
+    </body>
+    <script src="scripts.js"></script>
+</html>

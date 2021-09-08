@@ -28,6 +28,8 @@ const character = createCharacter('BJ', []);
 const sideCharacter = createCharacter('Nick', []);
 
 class Character {
+    maxPocketSize =  5;
+
 	constructor(name, pockets) {
 		this.name = name;
 		this.pockets = pockets;
@@ -37,7 +39,6 @@ class Character {
 			y: 0,
 		};
 
-        this.maxPocketSize = 5;
 	}
 
 	getItem(itemName) {
@@ -58,6 +59,8 @@ class Character {
 }
 
 class Car {
+    speed = 0;
+
 	// gets called automatically when you use the new keyword
 	constructor(make, model, year, hybrid = false) {
 		this.make = make;
@@ -80,3 +83,10 @@ const dealership = [
 ];
 
 dealership[0].vroom();
+
+class Room {
+
+}
+
+
+
