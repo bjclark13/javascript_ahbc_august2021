@@ -20,7 +20,7 @@
         <![endif]-->
     <h1><span id="first-name"></span>DOM Fundamentals:</h1>
     <h2>Selecting elements by their tag, id, or a class with the following two methods:</h2>
-    <ul id="modifying-elements">
+    <ul>
         <li>document.querySelectorAll()</li>
         <li>document.querySelector()</h3>
 
@@ -49,16 +49,21 @@
 
     <h2>Accessing the event.target object.</h2>
     <p>
-        Add a click event to an li. When it is clicked, add a "clicked" class and alert() the text of the element that triggered the click.
+        Add a click event to an li. When it is clicked, add a "clicked" class and alert() the text of the element that
+        triggered the click.
     </p>
     <h2>Using a loop to loop through a list of nodes.</h2>
     <p>console.log() the text of each li in the ul with id="modifying-elements"</p>
     <h2>Processing forms and inputs.</h2>
     <p>
     <form>
-        <label><input name="first-name" placeholder="First Name" /> Add your name here, then when you submit the form,
+        <label>
+            <input name="first-name" placeholder="First Name" /> Add your name here, then when you submit the form,
             it should update the span with an id of first-name</label>
-        <button>Submit</button>
+        
+            <input name="last-name" placeholder="Last Name" /> 
+
+            <button>Submit</button>
     </form>
     </p>
 
