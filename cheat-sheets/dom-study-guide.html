@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]>      <html class="no-js"> <!--<![endif]-->
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>DOM Study Guide</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="">
+</head>
+
+<body>
+    <!--[if lt IE 7]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+    <h1><span id="first-name"></span>DOM Fundamentals:</h1>
+    <h2>Selecting elements by their tag, id, or a class with the following two methods:</h2>
+    <ul id="modifying-elements">
+        <li>document.querySelectorAll()</li>
+        <li>document.querySelector()</h3>
+
+    </ul>
+    <p>
+        Select all of the h2 elements and turn them red.
+    </p>
+    <p>
+        Get the first element with a class of important and turn it green.
+    </p>
+
+    <h2 class="important">Modifying elements:</h2>
+    <ul id="modifying-elements">
+        <li>Adding and removing classes. </li>
+        <li> Adding and removing ids.</li>
+        <li>Changing style properties.</li>
+        <li>Altering the innerText and innerHTML.</li>
+        <li>Setting attributes.</li>
+    </ul>
+    <h2>Adding and removing elements</h2>
+    <h2 class="important">Using node.addEventListener() and node.removeEventListener() for “click” events.</h2>
+    <p id="font-size" style="font-size: 16px;">
+        Double the font size of this paragraph every time it is clicked. Once it has been clicked twice, remove the
+        click event.
+    </p>
+
+    <h2>Accessing the event.target object.</h2>
+    <p>
+        Add a click event to an li. When it is clicked, add a "clicked" class and alert() the text of the element that triggered the click.
+    </p>
+    <h2>Using a loop to loop through a list of nodes.</h2>
+    <p>console.log() the text of each li in the ul with id="modifying-elements"</p>
+    <h2>Processing forms and inputs.</h2>
+    <p>
+    <form>
+        <label><input name="first-name" placeholder="First Name" /> Add your name here, then when you submit the form,
+            it should update the span with an id of first-name</label>
+        <button>Submit</button>
+    </form>
+    </p>
+
+    <script src="./dom-study-guide.js" async defer></script>
+</body>
+
+</html>
