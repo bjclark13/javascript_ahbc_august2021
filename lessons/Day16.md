@@ -41,6 +41,10 @@ Resources:
 - https://www.atlassian.com/dam/jcr:e7e22f25-bba2-4ef1-a197-53f46b6df4a5/SWTM-2088_Atlassian-Git-Cheatsheet.pdf
 - https://www.atlassian.com/git/tutorials/comparing-workflows
 
+## 8:15 - 8:45
+Branching / PR Practice
+See TODO at https://github.com/bjclark13/javascript_ahbc_august2021/tree/main/code-alongs/branching-practice/
+
 ### 8:30 - 9
 
 JavaScript Projects Introduction
@@ -49,10 +53,7 @@ Decide on which project to do. First-come-first-serve
 ### 9 - 10
 
 Work on Projects
-Goals: 
-    - Decide on which project to do
-    - Create initial stories / wireframes
-    - Create a github repo, with initial HTML, CSS, and JS 
+Goals: - Decide on which project to do - Create initial stories / wireframes - Create a github repo, with initial HTML, CSS, and JS
 
 ## Extra Practice
 
