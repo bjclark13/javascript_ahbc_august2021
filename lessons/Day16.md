@@ -39,6 +39,7 @@ Resources:
 - (Git Basics) https://www.youtube.com/watch?v=HVsySz-h9r4
 - (Git Terminal) https://github.com/codepath/ios_guides/wiki/Using-Git-with-Terminal
 - https://www.atlassian.com/dam/jcr:e7e22f25-bba2-4ef1-a197-53f46b6df4a5/SWTM-2088_Atlassian-Git-Cheatsheet.pdf
+- https://www.atlassian.com/git/tutorials/comparing-workflows
 
 ### 8:30 - 9
 
