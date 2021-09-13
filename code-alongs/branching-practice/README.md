@@ -12,4 +12,4 @@ Each student do the following:
   
 [ ] Sam: Add a paragraph with text from doggo lorum to index.html
 
-When you have completed your task, add a [ x ] next to your name, then push your branch, and make a new Pull Request in Github.
+When you have completed your task, add a [ x ] next to your name, then push your branch, and make a new Pull Request in Github. Then Slack me the link to your pull request.
