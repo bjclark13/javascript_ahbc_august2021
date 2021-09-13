@@ -41,9 +41,15 @@ Resources:
 - https://www.atlassian.com/dam/jcr:e7e22f25-bba2-4ef1-a197-53f46b6df4a5/SWTM-2088_Atlassian-Git-Cheatsheet.pdf
 - https://www.atlassian.com/git/tutorials/comparing-workflows
 
-## 8:15 - 8:45
+### 8:15 - 8:45
 Branching / PR Practice
 See TODO at https://github.com/bjclark13/javascript_ahbc_august2021/tree/main/code-alongs/branching-practice/
+
+Reminder:
+ - `git add <files>`
+ - `git commit -m "My message here"`
+ - `git pull`
+ - `git push`
 
 ### 8:30 - 9
 
