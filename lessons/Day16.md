@@ -51,11 +51,6 @@ Reminder:
  - `git pull`
  - `git push`
 
-### 8:30 - 9
-
-JavaScript Projects Introduction
-Decide on which project to do. First-come-first-serve
-
 ### 9 - 10
 
 Work on Projects
