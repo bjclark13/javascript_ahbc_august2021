@@ -51,6 +51,7 @@ Reminder:
  - `git pull`
  - `git push`
 
+
 ### 9 - 10
 
 Work on Projects
@@ -60,3 +61,4 @@ Goals: - Decide on which project to do - Create initial stories / wireframes - C
 
 - Check out Spotify Engineering Culture (https://www.youtube.com/watch?v=4GK1NDTWbkY) and (https://www.youtube.com/watch?v=vOt4BbWLWQw) at your leisure.
 - Practice Assessment 3 is now available
+
