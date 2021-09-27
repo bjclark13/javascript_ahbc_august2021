@@ -35,6 +35,7 @@ function clickIt(event) {
 	// ● When the cell with the id of “it” is clicked, the element should have its background color
 	// changed to red and its text changed to "IT". Also, set the background of the page body
 	// to black.
+	event.target.innerText = "IT";
 
 	// document.body.style.backgroundColor = 'black';
 	// event.target.style.backgroundColor = 'red';
