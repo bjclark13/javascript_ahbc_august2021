@@ -34,6 +34,11 @@ Resources:
 
 Break, explore Star Wars API (https://swapi.dev/)
 
+Some things to think about:
+
+- What API url would return information about Luke Skywalker? How did you get there?
+- What API url would return information about Luke Skywalker's home planet? How did you get there?
+
 ### 7:45 - 8:30
 
 Lecture: Promises, Async / Await

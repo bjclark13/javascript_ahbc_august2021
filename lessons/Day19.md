@@ -5,36 +5,35 @@
 - What is Node.js?
 - What is the difference between running JavaScript in the browser vs on a server?
 
+## Resources
+
+- https://hacks.mozilla.org/2015/05/es6-in-depth-destructuring/
+- https://www.sitepoint.com/an-introduction-to-node-js/
+
 ## Schedule
 
-### 6:30 - 7:30
+### 6:30 - 7
 
-Lecture: APIs
+Lecture: Node.js & Destructuring
+Slides: https://drive.google.com/file/d/1lODLLRpi4wKHsJOVr36hCkCWj2MEPu4J/view (46-73=8)
 
-Slides: https://drive.google.com/file/d/1lODLLRpi4wKHsJOVr36hCkCWj2MEPu4J/view (1-42)
+### 7 - 7:30
 
-Resources:
-
-- https://github.com/public-apis/public-apis
-- https://www.freecodecamp.org/news/javascript-promises-explained/
-- https://www.freecodecamp.org/news/learn-promise-async-await-in-20-minutes/
+Code along: Node.js
 
 ### 7:30 - 7:45
 
-Break, explore Star Wars API (https://swapi.dev/)
+Break
 
 ### 7:45 - 8:30
 
-Lecture: Promises, Async / Await
+Lecture: Testing Part 1
 
 ### 8:30 - 9
 
-Code Along: Star Wars API
+Code Along: Jest (test our previous code along)
 
 ### 9 - 10
 
-API Lab
-
-### Extra Practice
-
-Explore https://github.com/public-apis/public-apis and find some APIs that you think would be cool to build an app with!
+Exercise
+Testing Lab 1
