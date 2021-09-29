@@ -17,7 +17,7 @@
 ### 6:30 - 7
 
 Lecture: Node.js & Destructuring
-Slides: https://drive.google.com/file/d/1lODLLRpi4wKHsJOVr36hCkCWj2MEPu4J/view (46-73=8)
+Slides: https://drive.google.com/file/d/1lODLLRpi4wKHsJOVr36hCkCWj2MEPu4J/view (46-73)
 
 ### 7 - 7:30
 
