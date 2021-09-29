@@ -7,8 +7,10 @@
 
 ## Resources
 
-- https://hacks.mozilla.org/2015/05/es6-in-depth-destructuring/
-- https://www.sitepoint.com/an-introduction-to-node-js/
+- [Intro to Destructuring](https://hacks.mozilla.org/2015/05/es6-in-depth-destructuring/)
+- [Intro to Node](https://www.sitepoint.com/an-introduction-to-node-js/)
+- [Destructuring example](cheat-sheets/destructuring-example.js)
+- [Jest Getting Started](https://jestjs.io/docs/getting-started)
 
 ## Schedule
 

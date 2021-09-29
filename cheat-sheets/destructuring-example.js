@@ -1,3 +1,5 @@
+// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment
+// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest_parameters
 const person = {
 	first: 'BJ',
 	last: 'Clark',
@@ -22,3 +24,13 @@ console.log(array1); // [10, 20]
 console.log(array2); // [10, 20, 30]
 console.log(array3); // [10, 20]
 console.log(array2); // [0,10, 20, 30]
+
+const newPerson = { ...person, first: 'Bradley' }; // creates a copy, with changes
+console.log(newPerson);
+
+function hello(thisThing, thatThing, ...thoseThings) {
+	console.log('this>> ', thisThing);
+	console.log('that>> ', thatThing);
+	console.log('those>> ', thoseThings);
+}
+hello(1, 2, 3, 4, 5, 6, 7, 8, 9, 10);

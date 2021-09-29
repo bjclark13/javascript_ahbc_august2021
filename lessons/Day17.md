@@ -1,5 +1,8 @@
 ## Day 17
 
+## Recording: https://grandcircus.zoom.us/rec/share/M98Tl6XhpFlrdWXY1T9eqUQFwUI6OI2PONustOLksZR6yITJk8qTFBDoLCZuBarO.NYN6L2uIp7krBHBT
+passcode: ?rm1\*ZJX
+
 ## Objectives:
 
 - What is an API?
