@@ -1,0 +1,29 @@
+body {
+	height: 100vh;
+	width: 100vw;
+	background-color: black;
+    perspective: 400px;
+}
+
+main {
+    color: rgb(255, 238, 0);
+    text-transform: uppercase;
+    line-height: 2;
+    font-size: 2rem;
+}
+
+main {
+    position: relative;
+    animation: crawl 60s;
+}
+
+@keyframes crawl {
+    0% {
+      top: 0;
+      transform: rotateX(20deg)  translateZ(0);
+    }
+    100% { 
+      top: -6000px;
+      transform: rotateX(25deg) translateZ(-2500px);
+    }
+  }
