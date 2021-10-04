@@ -13,6 +13,13 @@ console.log(rest); // 30, 40, 50
 console.log(a); // 10
 console.log(b); // 20
 
+const array123 = [1,1,1,1,1,1,1,1,1];
+// const first = array123[0];
+// const seconds = array123[1]
+// const third = array123[2];
+const [firstN,second, third] = array123
+console.log(firstN);
+
 // rest
 const array1 = [10, 20, 30];
 const array2 = [...array1]; // creates a copy, but not the same
@@ -23,7 +30,7 @@ array1.pop(); // remove from end
 console.log(array1); // [10, 20]
 console.log(array2); // [10, 20, 30]
 console.log(array3); // [10, 20]
-console.log(array2); // [0,10, 20, 30]
+console.log(array4); // [0,10, 20, 30]
 
 const newPerson = { ...person, first: 'Bradley' }; // creates a copy, with changes
 console.log(newPerson);
