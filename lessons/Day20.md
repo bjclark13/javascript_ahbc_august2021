@@ -28,6 +28,14 @@ Code Along: Testing Part 2
 
 ### 8:30 - 10
 
+Practice Technical Interviews Order
+----
+Sam
+Jarod
+Jason
+Christian 
+Eugene
+
 Practice
 
 - Node Cheat Sheet
@@ -40,3 +48,6 @@ Practice
 
 - https://codewithhugo.com/mocking-the-current-date-in-jest-tests/
 - https://www.browserstack.com/guide/testing-pyramid-for-test-automation
+- Classes slides (see LMS)
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes
+- https://www.javascripttutorial.net/es6/javascript-class/
