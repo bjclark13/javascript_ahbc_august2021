@@ -37,8 +37,6 @@ Christian
 Eugene
 
 Practice
-
-- Node Cheat Sheet
 - TDD Lab 1
 - TDD Lab 2
 - [Assessment 4 Study Guide](https://lms.grandcircus.co/pluginfile.php/28668/mod_resource/content/0/Assessment%204%20Study%20Guide.pdf?redirect=1)
@@ -51,3 +49,5 @@ Practice
 - Classes slides (see LMS)
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes
 - https://www.javascripttutorial.net/es6/javascript-class/
+- Node Cheat Sheet
+
