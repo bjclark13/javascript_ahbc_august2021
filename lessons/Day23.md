@@ -5,6 +5,8 @@
 What does Typescript provide that JavaScript does not?
 How do you use and build typescript in a full-fledge applicaiton?
 
+*(IMPORTANT)[https://docs.google.com/document/d/1ib0y7aEDPStE0HoLSOxA8MRuiUdbS1GE0u-3G-AEg_o/preview]*
+
 ## 6:30 - 7
 
 Questions on assesment?
