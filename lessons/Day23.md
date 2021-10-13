@@ -20,6 +20,7 @@ Break
 ## 8:15 - 8:45
 
 Lecture: Typescript Testing (Slides: 1-54)
+Code Along: Creating TypeScript Node App
 
 ## 8:45 - 10
 
