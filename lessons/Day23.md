@@ -1,5 +1,10 @@
 # Day 23
 
+## Overview
+
+What does Typescript provide that JavaScript does not?
+How do you use and build typescript in a full-fledge applicaiton?
+
 ## 6:30 - 7
 
 Questions on assesment?
@@ -20,4 +25,8 @@ Lecture: Typescript Testing (Slides: 1-54)
 
 Typescript Lab 1
 
+## Additional Reading
 
+https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html
+https://serokell.io/blog/why-typescript
+https://www.youtube.com/watch?v=gp5H0Vw39yw
