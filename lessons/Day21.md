@@ -19,4 +19,5 @@ Code Along: Webpack / CI/CD
 ## 8:30 - 10
 
 Study for Assessment 
-TDD Lab
+TDD Lab 2 
+Practice Assessment 
