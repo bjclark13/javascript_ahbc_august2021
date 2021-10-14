@@ -9,7 +9,7 @@ _(IMPORTANT)[https://docs.google.com/document/d/1ib0y7aEDPStE0HoLSOxA8MRuiUdbS1G
 
 ## 6:30 - 7
 
-Questions on assesment?
+Questions on assessment?
 
 ## 7 - 7:15
 
