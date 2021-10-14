@@ -29,4 +29,5 @@ Code Along: Star Wars classes
 ### 9 - 10
 
 TS Lab 1 (Due Monday)
+
 TS Lab 2 (Due Wednesday)
