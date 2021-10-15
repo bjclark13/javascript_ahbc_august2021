@@ -14,6 +14,8 @@ In this exercise, we are going to create classes for Star Wars characters.
 3. Add the following rules:
 
 - Any force user should be able to do battle
-- Jedi can only battle Sith, Sith can only battle Jedi
+- Jedi can only battle Sith, 
+- Sith can battle Jedi, or Sith
+
 - Jedi can use blue, green, or purple lightsabers.
 - Sith can use red lightsabers.
