@@ -55,7 +55,7 @@ class FrontEndInstructor extends GrandCircusInstructor { // extends keyword to g
     teach(message: string|number|null|undefined): void|string { // overriding a method
         console.log(`${message} + JAVASCRIPT RULES`)
     }
-    
+
     // null is intentionally nothing
     // undefined just means it has been given any value yet
 
@@ -90,3 +90,20 @@ function callContractor(contractor: Contractor) { // anything that inherits Cont
 
 callContractor(new NightlySecurity()); // by being the child of Contractor, it is also a contractor
 callContractor(new DaySecurity()); // 
+
+function payContractors(contractors: Contractor[]) { // by using abstract class as the type 
+                                                     // use any subclass in the array 
+
+}
+
+const c1 = new DaySecurity();
+const contractors = [ 
+    new NightlySecurity(), // hoem
+    new DaySecurity(), // blogpost
+    new NightlySecurity(),
+    c1
+];
+
+payContractors(contractors); // polymorphism!
+
+// const blogPost = new BlogPost(name, path, author); // creating a blog post
