@@ -10,4 +10,5 @@ Break
 ## 7:45 - 8:30
 Code Along / Exercise 
 
-
+## 8:30 - 10 
+Practice Assessment
