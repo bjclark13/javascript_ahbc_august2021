@@ -23,14 +23,14 @@ class GrandCircusInstructor { // does nothing, blueprint
     // fields, properties mean the same thiing
     // variables that are attached to your classs
     name: string;
-    startDate: Date;
+    startDate: Date|string|null|number; // | can be either one
 
     constructor(name: string, date: Date) { // set up the data, function
         this.name = name;
         this.startDate = date;
     }
 
-    teach(message: string): void { // method is function attached to a class, return types
+    teach(message: string): void|string { // method is function attached to a class, return types
         console.log(`${message}, blah blah blah`);
         //no return statement
     }
@@ -52,10 +52,12 @@ class FrontEndInstructor extends GrandCircusInstructor { // extends keyword to g
         console.log('zzzz');
     }
 
-    teach(message: string): void { // overriding a method
+    teach(message: string|number|null|undefined): void|string { // overriding a method
         console.log(`${message} + JAVASCRIPT RULES`)
     }
-
+    
+    // null is intentionally nothing
+    // undefined just means it has been given any value yet
 
 }
 // ● Define and extend abstract classes with abstract methods
