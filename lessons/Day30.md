@@ -23,6 +23,9 @@ Break
 Continue with Fantasy Football example
 Add your own styles to the fantasy football site
 
-### 8:45 - 10 
+### 8:45 - 9:30 
 Express Lab 1 
 Express Lab 2
+
+## 9:30 - 10
+Ice Breaker, questions, etc
