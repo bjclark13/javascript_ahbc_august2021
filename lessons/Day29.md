@@ -19,7 +19,7 @@ Break
 
 ## 8:20 - 9
 
-Code Along: Students
+Code Along: Fantasy Football
 
 ## 9 - 10
 
