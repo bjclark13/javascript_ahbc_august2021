@@ -7,7 +7,9 @@ const roster = express.Router();
 // create our apis
 
 // array of players
-const players: IPlayer[] = [];
+const players: IPlayer[] = [
+	new Player('BJ Clark', 'Grand Circus', 'Instrutor', false),
+];
 
 // add players
 roster.post('/', (req, res) => {
@@ -19,9 +21,10 @@ roster.post('/', (req, res) => {
 		false
 	);
 
-    players.push(player);
+	players.push(player);
 
-	res.json(player);
+	// res.json(player);
+	res.render('roster', { players });
 });
 
 // edit player information
@@ -32,7 +35,13 @@ roster.post('/', (req, res) => {
 
 // get all players
 roster.get('/', (req, res) => {
-    res.json(players); // return the players array
+	// res.json(players); // return the players array API
+	// Webpage
+	res.render('roster', { players });
+});
+
+roster.get('/add', (req, res) => {
+	res.render('add');
 })
 
 // get player by name
