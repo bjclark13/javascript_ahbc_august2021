@@ -8,6 +8,8 @@ So far we have used Express to easily create a REST API. You can also use expres
 
 ### 6:30 - 7
 
+Express So Far, Review Demo & Application to Lab
+
 Questions on Lab 1
 
 ### 7 - 8
