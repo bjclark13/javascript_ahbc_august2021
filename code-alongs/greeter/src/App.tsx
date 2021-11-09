@@ -9,7 +9,19 @@ function App() {
   return (
     <div className="App">
       <h1>My App</h1>
-      <Greeter />
+      <Greeter startingName="BJ" />
+
+      <Greeter startingName="Nick" />
+
+      <Greeter startingName="Jason" />
+
+      <Greeter startingName="Christian" />
+
+      <Greeter startingName="Eugene" />
+
+      <Greeter startingName="Sam" />
+      
+      <Greeter startingName="Jarod" />
     </div>
   );
 }
