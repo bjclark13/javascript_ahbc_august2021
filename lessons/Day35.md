@@ -10,6 +10,10 @@ You can use arrays to display components dynamically. This very useful. However,
 
 Portfolio site research
 
+- Search for and share 2 portfolio sites that you like, and why share what you like about them
+- Sketch out a wireframe / skeleton of how you would layout your own portfolio site.
+- Divide your wireframe up into components (doesn't have to be perfect!), label each section with you component name
+
 ## 7 - 7:30
 
 Setting up components for a portfolio site
