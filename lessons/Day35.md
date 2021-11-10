@@ -20,7 +20,7 @@ Break
 
 ## 7:30 - 8:30
 
-Lecture: Class vs Arrays
+Lecture: Class vs Functions, Arrays & Immutability
 
 - https://reactjs.org/docs/composition-vs-inheritance.html
 - https://reactkungfu.com/2015/08/pros-and-cons-of-using-immutability-with-react-js/
