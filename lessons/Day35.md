@@ -18,6 +18,12 @@ Portfolio site research
 
 Setting up components for a portfolio site
 
+- TopFold
+- Portfolio
+- Resume
+- Contact 
+- Header
+
 ## 7:30 - 7:45
 
 Break
