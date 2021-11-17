@@ -11,6 +11,7 @@ In addition to using `fetch()` we can use a more full featured `axios()` which m
 - Questions?
 - Go over social posts lab
 - Review forms, passing callback functions as props
+ - https://www.youtube.com/watch?v=vyK0KtlFsgE
 - https://github.com/bjclark13/ipsum-generator
 
 ## 7 - 8
