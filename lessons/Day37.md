@@ -20,7 +20,7 @@ Questions? GTKY
 
 Lecture: Images, Testing
 
-### 8 - 9
+### 8 - 10
 
 1-on-1s
 
