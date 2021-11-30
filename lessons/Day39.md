@@ -20,7 +20,7 @@ Break
 
 Assessment 7 Study Guide Review
 
-## 9:30 - 9:30
+## 8:30 - 9:30
 
 React Exericse #9
 Practice Assessment #7
