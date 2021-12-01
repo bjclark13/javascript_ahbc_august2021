@@ -1,0 +1,7 @@
+label, input {
+    display: block;
+}
+
+main, .App {
+    padding: 1rem;
+}
