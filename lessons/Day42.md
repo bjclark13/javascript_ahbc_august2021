@@ -33,3 +33,6 @@ Break
 
 ### 8:45 - 9
 Repeat review exercise, but using MongoDB instead.
+
+### 9 - 10 
+MongoDB lab
