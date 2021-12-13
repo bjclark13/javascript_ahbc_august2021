@@ -10,6 +10,9 @@ Career Services
 
 Questions on Lab / Practice Assessment
 
+Note: `npm install react-router-dom@6`
+
+
 
 ### 9 - 10 
 Introduce React Projects
