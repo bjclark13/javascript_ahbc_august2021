@@ -15,7 +15,6 @@ function FriendListRoute() {
             <ul> {
                 friends.map(friend => <li> {friend.name}  (Favorite Song:{friend.favoriteSong})</li>)
             }
-
             </ul>
 
             <FriendForm onSubmit={(friend) => {

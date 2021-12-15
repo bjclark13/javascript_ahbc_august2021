@@ -11,11 +11,12 @@ function FriendForm({ onSubmit }: { onSubmit: (friend: Friend) => void }) {
     }
 
     return (
-        <form onSubmit={(e) => {
-            e.preventDefault();
-            onSubmit({ name, favoriteSong });
-            clear();
-        }}>
+        <form
+            onSubmit={(e) => {
+                e.preventDefault();
+                onSubmit({ name, favoriteSong });
+                clear();
+            }}>
             <p>
                 <label>
                     Name

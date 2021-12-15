@@ -1,5 +1,6 @@
 import { BrowserRouter as Router, Route, Routes, Link } from 'react-router-dom';
 import './App.css';
+import FriendForm from './FriendForm';
 import FriendListRoute from './FriendListRoute';
 import SongListRoute from './SongListRoute';
 import SongRoute from './SongRoute';
@@ -12,10 +13,11 @@ function App() {
           <li><Link to="/songs" >Song List</Link></li>
 
         </nav>
+        
         <Routes>
           <Route path="/" element={<FriendListRoute />} />
           <Route path="/songs" element={<SongListRoute />} />
-          <Route path="/song/:id" element={<SongRoute />} />
+          <Route path="/song/:id" element={<SongRoute />} /> 
 
         </Routes>
       </div>
