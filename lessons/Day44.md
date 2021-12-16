@@ -20,4 +20,4 @@ Breakout rooms for lab, practice assessment
 
 ### 9:15 - 10
 
-React Practice: Build and Decorate a Tree
+React Practice: Build and Decorate a Holiday Tree
