@@ -2,11 +2,7 @@
 
 ## Schedule
 
-### 6:30 - 7
-
-Questions?
-
-### 7 - 7:30
+### 6:30 - 6:45
 
 Let's do the MongoDB version of our SQL challenge:
 
@@ -17,7 +13,7 @@ Let's do the MongoDB version of our SQL challenge:
    - position
    - starting
    - team_id
-2. Players may contain the following fields (you choose the types):
+2. Teams may contain the following fields (you choose the types):
    - team_name
    - team_owner_name
    - is_active
@@ -27,21 +23,23 @@ Let's do the MongoDB version of our SQL challenge:
 5. Update Peyton Manning, setting starting to false
 6. Remove Peyton Manning, add Tom Brady to your team instead.
 
-### 7:30 - 7:40
-
-Break
-
-### 7:40 - 8:30
+### 6:45 - 7:15
 
 Lecture: MongoDB Indexes and Aggregators
-Stopping at "grouping" sections
+Stopping at "grouping" section
 
-### 8:30 - 8:45
-
-Break
-
-### 8:45 -10
+### 7:15 - 8:30
 
 Talk through lab
 
 Breakout room time
+
+1-on-1s with Lynne
+
+### 8:30 - 9
+
+GitHub Pages for React Project
+
+### 9 - 10
+
+More breakout time

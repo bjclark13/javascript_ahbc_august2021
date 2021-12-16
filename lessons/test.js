@@ -1,3 +1,8 @@
-const query = db.books.find({
-	$or: [{ year: { $lt: 1900 } }, , { year: { $gt: 2000 } }],
-});
+const query = db.players.updateOne(
+	{ lastName: 'Brady' },
+	{
+		$set: {
+			team: ObjectId('61ba7db78aefa7b8eea3bc0f'),
+		},
+	}
+);
