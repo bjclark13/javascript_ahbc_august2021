@@ -14,7 +14,7 @@ Questions? GTKK
 
 Practice exercise
 
-1. You are trying to save the world by biking to works. Create a collection in mongodb for tracking how commutes and the distance. A record should looks something like:
+1. You are trying to save the world by biking to work. Create a collection in mongodb for tracking your commutes and the distance. A record should looksomething like:
 
 ```
     {
