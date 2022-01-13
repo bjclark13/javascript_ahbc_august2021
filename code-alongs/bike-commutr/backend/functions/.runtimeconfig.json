@@ -1,0 +1,5 @@
+{
+    "mongodb": {
+        "uri": "mongodb+srv://admin:password1234@cluster0.znac1.mongodb.net/gc_work?retryWrites=true&w=majority"
+    }
+}
